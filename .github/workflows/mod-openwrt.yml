@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: Build G-Dock OpenWrt with passwall
+name: Build OpenWrt
 
 on:
   repository_dispatch:
@@ -18,11 +18,11 @@ on:
     branches:
       - main
     paths:
-      - 'mod.config'
-  schedule:
-    - cron: 0 8 * * 5
-  watch:
-    types: started
+      - '.config'
+#  schedule:
+#    - cron: 0 8 * * 5
+#  watch:
+#    types: started
 
 env:
   REPO_URL: https://github.com/coolsnowwolf/lede
