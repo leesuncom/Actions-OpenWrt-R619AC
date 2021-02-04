@@ -20,3 +20,5 @@ git clone https://github.com/jerrykuku/luci-app-argon-config package/lean/luci-a
 cd package
 git clone https://github.com/kenzok8/openwrt-packages.git
 git clone https://github.com/kenzok8/small.git
+git clone https://github.com/liuran001/openwrt-packages
+git clone https://github.com/destan19/OpenAppFilter.git
