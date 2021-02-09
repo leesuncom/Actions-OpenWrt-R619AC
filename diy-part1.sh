@@ -9,16 +9,10 @@
 # File name: diy-part1.sh
 # Description: OpenWrt DIY script part 1 (Before Update feeds)
 #
-# Uncomment a feed source
-# sed -i 's/^#\(.*helloworld\)/\1/' feeds.conf.default
 
+# Uncomment a feed source
+#sed -i 's/^#\(.*helloworld\)/\1/' feeds.conf.default
 
 # Add a feed source
 #sed -i '$a src-git lienol https://github.com/Lienol/openwrt-package' feeds.conf.default
-rm -rf package/lean/luci-theme-argon && git clone -b 18.06 https://github.com/jerrykuku/luci-theme-argon package/lean/luci-theme-argon
-git clone https://github.com/jerrykuku/luci-app-argon-config package/lean/luci-app-argon-config
-cd package
-git clone https://github.com/kenzok8/openwrt-packages.git
-git clone https://github.com/kenzok8/small.git
-git clone https://github.com/liuran001/openwrt-packages
-git clone https://github.com/destan19/OpenAppFilter.git
+sed -i '$a src-git Whitestorys https://github.com/Aibx/openwrt-packages' feeds.conf.default
