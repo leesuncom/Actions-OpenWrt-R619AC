@@ -10,8 +10,6 @@ Kernel Version : 5.4
 
 Support IPV6
 
-Base from [P3TERX/Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt)
-
 
 ## Acknowledgments
 
@@ -28,9 +26,7 @@ Base from [P3TERX/Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt)
 - [Cowtransfer](https://cowtransfer.com)
 - [WeTransfer](https://wetransfer.com/)
 - [Mikubill/transfer](https://github.com/Mikubill/transfer)
-- [luci-app-jd-dailybonus](https://github.com/jerrykuku/luci-app-jd-dailybonus)
-- [luci-app-adguardhome](https://github.com/rufengsuixing/luci-app-adguardhome)
 - [kenzo's openwrt-packages collection](https://github.com/kenzok8/openwrt-packages)
 ## License
 
-[MIT](https://github.com/P3TERX/Actions-OpenWrt/blob/main/LICENSE) © P3TERX
+
