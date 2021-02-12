@@ -13,12 +13,11 @@ Support IPV6
 - [Cowtransfer](https://cowtransfer.com)
 - [kenzo's openwrt-packages collection](https://github.com/kenzok8/openwrt-packages)
 - [Aibx openwrt-packages collection](https://github.com/Aibx/OpenWRT-R619AC)
-p3terx大神一键编译脚本：https://github.com/P3TERX/Actions-OpenWrt.git
-coolsnowwolf大神的源码地址：https://github.com/coolsnowwolf/lede.git
-Lienol大神源码地址：https://github.com/Lienol/openwrt.git
-ctcgfw大神源码地址：https://github.com/immortalwrt/immortalwrt
-garypang13大神一键编译脚本：https://github.com/garypang13/Actions-OpenWrt
-tuanqing大神一栈式全自动构建脚本：https://github.com/tuanqing/mknop
+- [p3terx大神一键编译脚本](https://github.com/P3TERX/Actions-OpenWrt.git)
+- [Lienol大神源码地址](https://github.com/Lienol/openwrt.git)
+- [ctcgfw大神源码地址](https://github.com/immortalwrt/immortalwrt)
+- [garypang13大神一键编译脚本](https://github.com/garypang13/Actions-OpenWrt)
+- [tuanqing大神一栈式全自动构建脚本](https://github.com/tuanqing/mknop)
 ## License
 
 
