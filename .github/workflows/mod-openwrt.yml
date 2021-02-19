@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: Build OpenWrt R619AC PassWall
+name: Build OpenWrt R619AC SPlus
 on:
   repository_dispatch:
   workflow_dispatch:
